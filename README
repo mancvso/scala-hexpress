@@ -1,0 +1,6 @@
+Scala Hexpress
+================
+
+An initial attempt to port the awesome Hexpress library to Scala ( https://github.com/krainboltgreene/hexpress )
+
+new ExpressionBuilder("http").maybe("s")...
