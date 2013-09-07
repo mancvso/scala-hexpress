@@ -4,3 +4,5 @@ Scala Hexpress
 An initial attempt to port the awesome Hexpress library to Scala ( https://github.com/krainboltgreene/hexpress )
 
 new ExpressionBuilder("http").maybe("s")...
+
+Package name and project name will be changed later.
